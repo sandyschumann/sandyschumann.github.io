@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
-logo: photo.png
-title: Sandy Schumann (PhD)
+minimal_mistakes_skin: "dirt"
+title: Sandy Schumann(PhD)
+author:
+  avatar   : "photo.png"
+  bio      : "My awesome biography constrained to a sentence or two goes here."
+  location : "London, UK" 
