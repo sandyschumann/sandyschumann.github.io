@@ -1,1 +1,1 @@
-# Bio
+I am a social psychologist.
