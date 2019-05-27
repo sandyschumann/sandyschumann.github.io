@@ -9,7 +9,7 @@ I am a political psychologist at the [UCL Department of Security and Crime Scien
 * The Social Ecology of Radicalisation: Where do people become radicalised? How are these settings characterised? Is there evidence for self-radicalisation online?
 * Social Media and Support for the Populist Radical Right: Does social media use increase support for populist radical right parties?
 * A Reinforcing Spiral of Populist Attitudes: Are populist attitudes and social media use mutually reinforced over time?
-* Immigration and Votes for populist radical right parties in Europe: Does an increase in the size of the immigrant population in a country have long term effects on voting behaviour?
+* Immigration and Votes for Populist Radical Right Parties in Europe: Does an increase in the size of the immigrant population in a country have long term effects on voting behaviour?
 
 
 ### Recent Publications and Pre-prints
