@@ -24,6 +24,7 @@ Schumann, S., Van der Vegt, I., Schuurman, B., & Gill, P. (2019). Towards Open a
 
 ### CV
 
+CV Sandy Schumann December 2019.pdf
 
 ### Contact
 Email: s.schumann [@] ucl.ac.uk
