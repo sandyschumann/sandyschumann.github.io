@@ -14,6 +14,9 @@ I am a social and political psychologist at the [UCL Department of Security and 
 
 ### Recent Publications and Pre-prints
 
+Schumann, S., Boer, D., Hanke, K., & Liu, J. (2019). Social Media Use and Support for Populist Radical Right Parties: Results from a Panel Study in Germany. Information, Communication & Society, [online first](https://www.tandfonline.com/doi/full/10.1080/1369118X.2019.1668455#.XZnMYuuxMSw.twitter).
+
+Schumann, S., Van der Vegt, I., Schuurman, B., & Gill, P. (2019). Towards Open and Reproducible Terrorism Studies: Current Trends and Next Steps. Perspectives on Terrorism, 13, (https://www.universiteitleiden.nl/binaries/content/assets/customsites/perspectives-on-terrorism/2019/issue-5/4--schumann-et-al..pdf)
 
 ### CV
 
