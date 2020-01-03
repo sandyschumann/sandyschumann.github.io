@@ -1,15 +1,15 @@
-I am a political psychologist at the [UCL Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute). My research examines factors that facilitate radicalisation and extreme political attitudes, online and offline.
+I am a social and political psychologist at the [UCL Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute). My research examines risk factors of radicalisation and extreme political attitudes, online and offline.
 
-### News May and June 2019
-* Together with Tristan Caulfield (UCL), I am organising a workshop [Introduction to Agent-based Modelling](https://www.eventbrite.co.uk/e/introduction-to-agent-based-modelling-tickets-60458664493) as part of our UCL Social Science Plus grant (28.5.19).
-* I am presenting first results from our community survey study in London at the 
+### News January 2020
+* I will attend the second workshop of the co-creative action research group on using arts and culture to counter violent extremism, facilitated by the UAE Ministry of Culture and Knowledge Development (10.-12.1.20).
+
 
 
 ### Current Research Projects
-* The Social Ecology of Radicalisation: Where do people become radicalised? How are these settings characterised? Is there evidence for self-radicalisation online?
-* Social Media and Support for the Populist Radical Right: Does social media use increase support for populist radical right parties?
+
 * A Reinforcing Spiral of Populist Attitudes: Are populist attitudes and social media use mutually reinforced over time?
 * Immigration and Votes for Populist Radical Right Parties in Europe: Does an increase in the size of the immigrant population in a country have long term effects on voting behaviour?
+* Support for Terrorism and Democracy Over Time: Is support for terrorism and lack of support for democracy related? Can these relationships be modelled over time?
 
 
 ### Recent Publications and Pre-prints
