@@ -22,9 +22,7 @@ Schumann, S., Boer, D., Hanke, K., & Liu, J. (2019). Social Media Use and Suppor
 
 Schumann, S., Van der Vegt, I., Schuurman, B., & Gill, P. (2019). Towards Open and Reproducible Terrorism Studies: Current Trends and Next Steps. Perspectives on Terrorism, 13, (https://www.universiteitleiden.nl/binaries/content/assets/customsites/perspectives-on-terrorism/2019/issue-5/4--schumann-et-al..pdf)
 
-### CV
-
-CV Sandy Schumann December 2019.pdf
+### [CV](https://github.com/sandyschumann/sandyschumann.github.io/blob/master/CV%20Sandy%20Schumann%20December%202019.pdf)
 
 ### Contact
 Email: s.schumann [@] ucl.ac.uk
