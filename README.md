@@ -20,7 +20,7 @@ With Tristan Caulfield (UCL, UK)
 
 Schumann, S., Boer, D., Hanke, K., & Liu, J. (2019). Social Media Use and Support for Populist Radical Right Parties: Results from a Panel Study in Germany. Information, Communication & Society, [online first](https://www.tandfonline.com/doi/full/10.1080/1369118X.2019.1668455#.XZnMYuuxMSw.twitter).
 
-Schumann, S., Van der Vegt, I., Schuurman, B., & Gill, P. (2019). Towards Open and Reproducible Terrorism Studies: Current Trends and Next Steps.[Prspectives on Terrorism](https://www.universiteitleiden.nl/binaries/content/assets/customsites/perspectives-on-terrorism/2019/issue-5/4--schumann-et-al..pdf)
+Schumann, S., Van der Vegt, I., Schuurman, B., & Gill, P. (2019). Towards Open and Reproducible Terrorism Studies: Current Trends and Next Steps. [Perspectives on Terrorism](https://www.universiteitleiden.nl/binaries/content/assets/customsites/perspectives-on-terrorism/2019/issue-5/4--schumann-et-al..pdf)
 
 ### [CV](https://github.com/sandyschumann/sandyschumann.github.io/blob/master/CV%20Sandy%20Schumann%20December%202019.pdf)
 
