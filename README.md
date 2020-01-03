@@ -25,5 +25,5 @@ Schumann, S., Van der Vegt, I., Schuurman, B., & Gill, P. (2019). Towards Open a
 ### [CV](https://github.com/sandyschumann/sandyschumann.github.io/blob/master/CV%20Sandy%20Schumann%20December%202019.pdf)
 
 ### Contact
-Email: s.schumann [@] ucl.ac.uk
-Twitter: @Sandy_Research
+* Email: s.schumann [@] ucl.ac.uk
+* Twitter: @Sandy_Research
