@@ -2,14 +2,18 @@ I am a social and political psychologist at the [UCL Department of Security and 
 
 ### News January 2020
 * I will attend the second workshop of the co-creative action research group on using arts and culture to counter violent extremism, facilitated by the UAE Ministry of Culture and Knowledge Development (10.-12.1.20).
-
+* I will start working with Dr Noémie Bouhana on a systematic literature review 'State of the Union: A Sythesis of Recent Evidence for Multilevel Drivers of Involvement in Terrorism', funded by the Centre for Research and Evidence on Security Threats (January-July 2020).  
 
 
 ### Current Research Projects
 
 * A Reinforcing Spiral of Populist Attitudes: Are populist attitudes and social media use mutually reinforced over time?
+With Franziske Ehrke and Fabian Thomas (University Koblenz-Landau, Germany)
 * Immigration and Votes for Populist Radical Right Parties in Europe: Does an increase in the size of the immigrant population in a country have long term effects on voting behaviour?
-* Support for Terrorism and Democracy Over Time: Is support for terrorism and lack of support for democracy related? Can these relationships be modelled over time?
+With Miguel Ramos (Birmingham University, UK)
+* Support for Terrorism and Democracy Over Time: Are support for terrorism and lack of support for democracy related? Can these relationships be specified over time?
+* Bystander Intervention in Ethnic Hate Crime: Where and when do people intervene? How can we facilitate intervention online?
+With Tristan Caulfield (UCL, UK)
 
 
 ### Recent Publications and Pre-prints
