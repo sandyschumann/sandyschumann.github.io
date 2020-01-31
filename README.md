@@ -8,11 +8,8 @@ I am a social and political psychologist at the [UCL Department of Security and 
 
 ### Current Research Projects
 
-* A Reinforcing Spiral of Populist Attitudes: Are populist attitudes and social media use mutually reinforced over time?
-With Franziske Ehrke and Fabian Thomas (University Koblenz-Landau, Germany)
-* Immigration and Votes for Populist Radical Right Parties in Europe: Does an increase in the size of the immigrant population in a country have long term effects on voting behaviour?
-With Miguel Ramos (Birmingham University, UK)
-* Support for Terrorism and Democracy Over Time: Are support for terrorism and lack of support for democracy related? Can these relationships be specified over time?
+* A Reinforcing Spiral of Populist Attitudes: Do populist attitudes become more extreme as people use social media more frequently to access news? With Franziske Ehrke and Fabian Thomas (University Koblenz-Landau, Germany)
+* Support for Terrorism and Suicide Attacks: Is support for terrorism in a country affected by incidents of suicide terrorist attacks?
 * Bystander Intervention in Ethnic Hate Crime: Where and when do people intervene? How can we facilitate intervention online?
 With Tristan Caulfield (UCL, UK)
 
