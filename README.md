@@ -3,7 +3,7 @@ I am a social and political psychologist at the [UCL Department of Security and 
 ### News January 2020
 * I will attend the second workshop of the co-creative action research group on using arts and culture to counter violent extremism, facilitated by the UAE Ministry of Culture and Knowledge Development (10.-12.1.20).
 * I will start working with Dr Noémie Bouhana on a systematic literature review 'State of the Union: A Sythesis of Recent Evidence for Multilevel Drivers of Involvement in Terrorism', funded by the Centre for Research and Evidence on Security Threats (January-July 2020).
-* We published our [paper](https://onlinelibrary.wiley.com/doi/full/10.1111/1556-4029.14282) on base rates of risk factors of engagement in violent extremism in the Journal of Foresic Sciences. 
+* We published our [paper](https://onlinelibrary.wiley.com/doi/full/10.1111/1556-4029.14282) on base rates of risk factors of engagement in violent extremism in the Journal of Forensic Sciences. 
 
 
 ### Current Research Projects
