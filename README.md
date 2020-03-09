@@ -1,5 +1,9 @@
 I am a social and political psychologist at the [UCL Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute). My research examines risk factors of radicalisation and extreme political attitudes, online and offline.
 
+### News March 2020
+* On 7.3. I spoke at Waltenstow Forest Citizens Assemply about the role of bystanders in preventing hate crime.
+* We published a new [pre-print](https://osf.io/c4esm/) reporting a study that examined why (or why not) victims of sexual and gender-based violence decide to diclose their experience on Twitter.
+
 ### News February 2020
 * I have been invited to write an article for the Brussels-based magazine Bruxelles Laïque on the role of social media for civic and political engagment.
 * Our talk on 'The dynamic relationship between social media use and populist attitudes' has been accepted to this year's conference of the International Society for Political Psychology (July 2002 in Berlin).
