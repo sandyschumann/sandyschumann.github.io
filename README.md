@@ -1,6 +1,9 @@
-I am a Lecturer at the [UCL Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute) and study risk factors of radicalisation, extreme political attitudes, as well as hate crime prevention in increasingly diverse and digital societies. I am keen to translate academic research into policy and practice; I am looking forward to connect with policymakers and practitioners working in the field of CVE and hate crime prevention.
+I am a Lecturer at the [UCL Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute) and study risk factors of radicalisation, extreme political attitudes, as well as hate crime prevention. I am keen to translate academic research into policy and practice; I am looking forward to connect with policymakers and practitioners in the field of CVE and hate crime prevention.
+
+### News April 2020
 
 ### News March 2020
+* The [Open Access Letter to Criminologists](https://criminologyopen.pubpub.org/pub/letter) was published to encourage more criminologists to publish in open access formats. I am happy to support Criminology Open as a member of the advisory board.
 * On 7.3. I spoke at Waltenstow Forest Citizens Assemply about the role of bystanders in preventing hate crime.
 * We published a new [pre-print](https://osf.io/c4esm/) reporting a study that examined why (or why not) victims of sexual and gender-based violence decide to diclose their experience on Twitter.
 
@@ -16,10 +19,10 @@ I am a Lecturer at the [UCL Department of Security and Crime Science](http://www
 
 ### Current Research Projects
 
-* A Reinforcing Spiral of Populist Attitudes: Do populist attitudes become more extreme as people use social media more frequently to access news? With Franziske Ehrke and Fabian Thomas (University Koblenz-Landau, Germany)
-* Measuring Support for Terrorism in the General Population: How did support for suicide terrorism change over a period of 11 years? Does the answer to this question differ when we consider different approaches to assess public opinions? 
-* Bystander Intervention in Ethnic Hate Crime: Where and when do people intervene? How can we facilitate intervention online?
-With Tristan Caulfield (UCL, UK)
+* Hate Crime during COVID-19: Did ethnic and race hate crime increase since the first COVID-19 case was reported in the UK? Did hate crime incidents online increase since social distancing measures were introduced?
+* Measuring Support for Terrorism in the General Population: How did support for suicide terrorism change over a period of 11 years? Does the answer to this question differ when we consider different approaches to assess public opinions? With Bettina Rottweiler and Paul Gill (UCL, UK)
+* Bystander Intervention in Ethnic Hate Crime: Where and when do people intervene? Why are people more likely to intervene in more serious incidents? With Tristan Caulfield (UCL, UK)
+* Does Cognitiv Inflexibility Predict Extremist Attitudes?: A registered diect replication of Zmirod et al., 2019 With Nadine Salman and Caitlin Clemmow (UCL, UK)
 
 
 ### Recent Publications and Pre-prints
