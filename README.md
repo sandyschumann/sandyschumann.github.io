@@ -12,7 +12,7 @@ I am a Lecturer at the [UCL Department of Security and Crime Science](http://www
 
 ### News February 2020
 * I have been invited to write an article for the Brussels-based magazine Bruxelles Laïque on the role of social media for civic and political engagment.
-* Our talk on 'The dynamic relationship between social media use and populist attitudes' has been accepted to this year's conference of the International Society for Political Psychology (July 2002 in Berlin).
+* Our talk on 'The dynamic relationship between social media use and populist attitudes' has been accepted to this year's conference of the International Society for Political Psychology (July 2020 in Berlin).
 
 ### News January 2020
 * I will attend the second workshop of the co-creative action research group on using arts and culture to counter violent extremism, facilitated by the UAE Ministry of Culture and Knowledge Development (10.-12.1.20).
