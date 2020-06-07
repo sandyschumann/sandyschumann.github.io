@@ -1,5 +1,9 @@
 I am a Lecturer at the [UCL Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute) and study risk factors of radicalisation, extreme political attitudes, as well as hate crime prevention. I am keen to translate academic research into policy and practice; I am looking forward to connect with policymakers and practitioners in the field of CVE and hate crime prevention.
 
+### News June 2020
+* My paper 'Radical News? Immigrants’ Television Use, Acculturation Challenges, and Support for Terrorism' is in press with Behavioral Sciences of Terrorism and Political Aggression
+* The article about civic/political engagement in the digital age that I wrote with Djouaria Ghilani and Olivier Klein for [Bruxelles Laique](https://twitter.com/Sandy_Research/status/1268838261482500096) is now available.
+
 ### News May 2020
 * I launched a website - [Covid-19 and Hate Crime](https://covid19andhatecrime.pubpub.org/pub/bzyb8du4/release/6) - to collect research and news reports that examine hate crime/incidents during the Covid-19 crisis. I also ran a victimisation survey in the UK, and the results are presented on the website.
 
@@ -29,6 +33,8 @@ I am a Lecturer at the [UCL Department of Security and Crime Science](http://www
 
 
 ### Recent Publications and Pre-prints
+
+Schumann, S., Osborne, D., Gill, P., Fell, B., & Hewstone, M. (in press). Radical News? Immigrants’ Television Use, Acculturation Challenges, and Support for Terrorism. [Behavioral Sciences of Terrorism and Political Aggression](https://osf.io/sftzb/?view_only=e488d3ec45464374b1bdd14b89baa4e2)
 
 Masciantonio, A., Schumann, S., & Bourguignon, D. (pre-print). Sexual and gender-based violence: to tweet or not to tweet?. https://doi.org/10.31219/osf.io/c4esm
 
