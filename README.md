@@ -1,6 +1,7 @@
 I am a Lecturer and the Postgraduate Tutor at the [UCL Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute). My research examines risk factors of radicalisation, extreme political attitudes, as well as hate crime prevention. I am keen to translate academic research into policy and practice; I am looking forward to connect with policymakers and practitioners in the field of CVE and hate crime prevention.
 
 ### News June 2020
+* We published a new pre-print: [Assessing Public Support for Terrorism Over Time](https://osf.io/ej7na/)
 * My paper [Radical News? Immigrants’ Television Use, Acculturation Challenges, and Support for Terrorism](https://www.tandfonline.com/doi/full/10.1080/19434472.2020.1779782) is in press with Behavioral Sciences of Terrorism and Political Aggression
 * The article about civic/political engagement in the digital age that I wrote with Djouaria Ghilani and Olivier Klein for [Bruxelles Laique](https://twitter.com/Sandy_Research/status/1268838261482500096) is now available.
 
@@ -34,6 +35,8 @@ I am a Lecturer and the Postgraduate Tutor at the [UCL Department of Security an
 
 
 ### Recent Publications and Pre-prints
+
+Schumann, S., Rottweiler, B., & Gill, P. (pre-print). Assessing Public Support for Terrorism Over Time. https://doi.org/10.31219/osf.io/ej7na
 
 Schumann, S., Osborne, D., Gill, P., Fell, B., & Hewstone, M. (2020). Radical News? Immigrants’ Television Use, Acculturation Challenges, and Support for Terrorism. [Behavioral Sciences of Terrorism and Political Aggression](https://www.tandfonline.com/doi/full/10.1080/19434472.2020.1779782)
 
