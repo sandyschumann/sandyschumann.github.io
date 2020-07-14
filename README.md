@@ -1,5 +1,9 @@
 I am a Lecturer and the Postgraduate Tutor at the [UCL Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute). My research examines risk factors of radicalisation, extreme political attitudes, as well as hate crime prevention. I am keen to translate academic research into policy and practice; I am looking forward to connect with policymakers and practitioners in the field of CVE and hate crime prevention.
 
+
+### News July 2020
+* We published [A typology of masspersonal information seeking repertoires (MISR): Global implications for political participation and subjective well-being](https://journals.sagepub.com/doi/full/10.1177/1461444820932556) in New Media and Society. This paper presents (some of) the results of a longitudinal cross-cultural survey study that examined the impact of internet use on a range of social phenomena.
+
 ### News June 2020
 * We published a new pre-print: [Assessing Public Support for Terrorism Over Time](https://osf.io/ej7na/)
 * My paper [Radical News? Immigrants’ Television Use, Acculturation Challenges, and Support for Terrorism](https://www.tandfonline.com/doi/full/10.1080/19434472.2020.1779782) is in press with Behavioral Sciences of Terrorism and Political Aggression
@@ -35,6 +39,8 @@ I am a Lecturer and the Postgraduate Tutor at the [UCL Department of Security an
 
 
 ### Recent Publications and Pre-prints
+
+Liu, J. H., Zhang, R. J., Vilar, R., Milojev, P., Hakim, M. A., de Zúñiga, H. G., Schumann, S., & Páez, D. (2020). A typology of masspersonal information seeking repertoires (MISR): Global implications for political participation and subjective well-being. [New Media & Society](https://journals.sagepub.com/doi/full/10.1177/1461444820932556).
 
 Schumann, S., Rottweiler, B., & Gill, P. (pre-print). Assessing Public Support for Terrorism Over Time. https://doi.org/10.31219/osf.io/ej7na
 
