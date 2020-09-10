@@ -1,6 +1,9 @@
 I am a Lecturer and the Postgraduate Tutor at the [UCL Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute). My research examines risk factors of radicalisation, extreme political attitudes, as well as hate crime prevention. I am keen to translate academic research into policy and practice; I am looking forward to connect with policymakers and practitioners in the field of CVE and hate crime prevention.
 
 
+### News August 2020 ###
+* I confirmed secondary supervision for two PhD students at our department. I very much look forward to working with them on evaluating the effectiveness of counter-narrative CVE interventions in Malaysia as well as the dynamics of the emergence of settings that promote far-right terrorism.
+
 ### News July 2020
 * We published [A typology of masspersonal information seeking repertoires (MISR): Global implications for political participation and subjective well-being](https://journals.sagepub.com/doi/full/10.1177/1461444820932556) in New Media and Society. This paper presents (some of) the results of a longitudinal cross-cultural survey study that examined the impact of internet use on a range of social phenomena.
 
