@@ -1,6 +1,10 @@
 I am a Lecturer and the Postgraduate Tutor at the [UCL Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute). My research examines risk factors of radicalisation, extreme political attitudes, as well as hate crime prevention. I am keen to translate academic research into policy and practice; I am looking forward to connect with policymakers and practitioners in the field of CVE and hate crime prevention.
 
 
+### News September 2020 ###
+* We published a [Systematic Review of Mental Health Problems and Violent Extremism] (https://www.tandfonline.com/doi/abs/10.1080/14789949.2020.1820067?journalCode=rjfp20) in the Journal for Forensic Psychiatry & Psychology.
+* I was invited to join the UK’s Commission for Countering Extremism Academic-Practitioner Counter Extremism Network. 
+
 ### News August 2020 ###
 * I confirmed secondary supervision for two PhD students at our department. I very much look forward to working with them on evaluating the effectiveness of counter-narrative CVE interventions in Malaysia as well as the dynamics of the emergence of settings that promote far-right terrorism.
 
