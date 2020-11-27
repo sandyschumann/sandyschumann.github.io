@@ -1,4 +1,7 @@
-I am a Lecturer and the Postgraduate Tutor at the [UCL Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute). My research examines risk factors of radicalisation, extreme political attitudes, as well as hate crime prevention. I am keen to translate academic research into policy and practice; I am looking forward to connect with policymakers and practitioners in the field of CVE and hate crime prevention.
+I am a Lecturer and the Postgraduate Tutor at the [UCL Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute). My research examines risk factors of radicalisation, extreme political attitudes, as well as hate crime prevention. I am keen to translate academic research into policy and practice; I am looking forward to connect with policy makers and practitioners in the field of CVE and hate crime prevention.
+
+### News November 2020 ###
+* We had our Stage 1 registered report 'Does Cognitive Inflexibility Predict Violent Extremist Behaviour Intentions? A Registered Direct Replication Report of Zmigrod et al., 2019' accepted at the Journal of Legal and Criminological Psychology. We will now pursue with data collection.
 
 ### News October 2020 ###
 * I proposed and got approved a new module - Online Extremism and Hate Crime - that I will teach in 21-22 on our MSc in Countering Organised Crime and Terrorism
@@ -6,7 +9,7 @@ I am a Lecturer and the Postgraduate Tutor at the [UCL Department of Security an
 
 ### News September 2020 ###
 * We published a [Systematic Review of Mental Health Problems and Violent Extremism](https://www.tandfonline.com/doi/abs/10.1080/14789949.2020.1820067?journalCode=rjfp20) in the Journal for Forensic Psychiatry & Psychology.
-* I was invited to join the UK’s Commission for Countering Extremism Academic-Practitioner Counter Extremism Network. 
+* I was invited to join the [UK’s Commission for Countering Extremism Academic-Practitioner Counter Extremism Network](https://www.gov.uk/government/news/launch-of-new-academic-and-practitioner-network-to-tackle-extremism). 
 
 ### News August 2020 ###
 * I confirmed secondary supervision for two PhD students at our department. I very much look forward to working with them on evaluating the effectiveness of counter-narrative CVE interventions in Malaysia as well as the dynamics of the emergence of settings that promote far-right terrorism.
@@ -50,13 +53,15 @@ I am a Lecturer and the Postgraduate Tutor at the [UCL Department of Security an
 
 ### Recent Publications and Pre-prints
 
+Schumann, S., Salman, N., Clemmow, C., & Gill, P. (accepted Stage 1 registered report). Does Cognitive Inflexibility Predict Violent Extremist Behaviour Intentions? A Registered Direct Replication Report of Zmigrod et al., 2019. Journal of Legal and Criminological Psychology.
+
+Masciantonio, A., Schumann, S., & Bourguignon, D. (pre-print under revision). Sexual and gender-based violence: to tweet or not to tweet?. https://doi.org/10.31219/osf.io/c4esm
+
 Liu, J. H., Zhang, R. J., Vilar, R., Milojev, P., Hakim, M. A., de Zúñiga, H. G., Schumann, S., & Páez, D. (2020). A typology of masspersonal information seeking repertoires (MISR): Global implications for political participation and subjective well-being. [New Media & Society](https://journals.sagepub.com/doi/full/10.1177/1461444820932556).
 
 Schumann, S., Rottweiler, B., & Gill, P. (pre-print). Assessing Public Support for Terrorism Over Time. https://doi.org/10.31219/osf.io/ej7na
 
 Schumann, S., Osborne, D., Gill, P., Fell, B., & Hewstone, M. (2020). Radical News? Immigrants’ Television Use, Acculturation Challenges, and Support for Terrorism. [Behavioral Sciences of Terrorism and Political Aggression](https://www.tandfonline.com/doi/full/10.1080/19434472.2020.1779782)
-
-Masciantonio, A., Schumann, S., & Bourguignon, D. (pre-print). Sexual and gender-based violence: to tweet or not to tweet?. https://doi.org/10.31219/osf.io/c4esm
 
 Clemmow, C., Schumann, S., Salman, N., & Gill, P. (2020). The Base Rate Study: Developing Base Rates for Risk Factors and Indicators for Engagement in Violent Extremism. Journal of Forensic Sciences.
 
