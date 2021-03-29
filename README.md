@@ -1,10 +1,11 @@
-I am a Lecturer and the Postgraduate Tutor at the [UCL Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute). My research examines risk factors of radicalisation, extreme political attitudes, as well as hate crime prevention. I am keen to translate academic research into policy and practice; I am looking forward to connect with policy makers and practitioners in the field of CVE and hate crime prevention.
+I am a Lecturer and the Postgraduate Tutor at the [UCL Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute). My research examines risk factors of radicalisation, extreme political attitudes, as well as hate crime prevention. I study these phenomena 'online' as well as 'offline'. 
+
+I am keen to translate my research into policy and practice. Doing so, I collaborate with civil society organisations to conduct impact evaluations. I am also a member of the UK government's Commission on Countering Extremism.
 
 
 ### Current Research Projects
 
-* Hate Crime during COVID-19: Did ethnic and race hate crime increase since the first COVID-19 case was reported in the UK? Did hate crime incidents online increase since social distancing measures were introduced?
-* Measuring Support for Terrorism in the General Population: How did support for suicide terrorism change over a period of 11 years? Does the answer to this question differ when we consider different approaches to assess public opinions? With Bettina Rottweiler and Paul Gill (UCL, UK)
+* Measuring Support for Terrorism in the General Population: How did support for suicide terrorism change over a period of 11 years? Did exposure to more or more deadly terror attacks predict lower support for terrorism? With Bettina Rottweiler and Paul Gill (UCL, UK)
 * Bystander Intervention in Ethnic Hate Crime: Where and when do people intervene? Why are people more likely to intervene in more serious incidents? With Tristan Caulfield (UCL, UK)
 * Does Cognitiv Inflexibility Predict Extremist Attitudes?: A registered direct replication of Zmirod et al., 2019 With Nadine Salman and Caitlin Clemmow (UCL, UK)
 
@@ -14,6 +15,8 @@ I am a Lecturer and the Postgraduate Tutor at the [UCL Department of Security an
 Masciantonio, A., Schumann, S., & Bourguignon, D. (pre-print under revision). Sexual and gender-based violence: to tweet or not to tweet?. https://doi.org/10.31219/osf.io/c4esm
 
 Schumann, S., Rottweiler, B., & Gill, P. (pre-print). Assessing Public Support for Terrorism Over Time. https://doi.org/10.31219/osf.io/ej7na
+
+Breznau, N., Rinke, E., Wuttke, A., Adem, M., Adriaans, J., Alvarez-Benjumea, A., … Nguyen, H. H. V. (pre-print). Observing Many Researchers using the Same Data and Hypothesis Reveals a Hidden Universe of Data Analysis. https://doi.org/10.31222/osf.io/cd5j9
 
 ### Recent Publications
 
