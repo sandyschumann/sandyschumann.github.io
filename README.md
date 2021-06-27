@@ -4,7 +4,7 @@ I am keen to translate my research into policy and practice. Doing so, I advise 
 
 Currently, I am the module convenor of the undergraduate course 'Introduction to Research'; I also develop a new module for the MSc Countering Organised Crime and Terrorism - 'Online Hate Crime and Extremism'. In addition, I lead a fortnightly seminar series on open science practices and innovative statistical methods. In the past, I have taught tutorials on social psychology (undergraduate, University of Oxford) and research methods seminars (postgraduate, Université Libre de Bruxelles).
 
-See my [CV]() for more information.
+See my [CV](https://github.com/sandyschumann/sandyschumann.github.io/blob/master/CV%20Sandy%20Schumann%20June%202021.pdf) for more information.
 
 
 
