@@ -1,6 +1,6 @@
 I am a Lecturer (Assistant Professor) and the Postgraduate Tutor at University College London, [Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute). My research examines risk factors of radicalisation, extreme political attitudes, as well as hate crime prevention. I study these phenomena 'online' as well as 'offline'. 
 
-I am keen to translate my research into policy and practice. Doing so, I advise governments (e.g., UK Commission on Countering Extremism, UAE Ministry for Culture and Knowledge Development) and collaborate with civil society organisations to conduct impact evaluations.
+I am keen to translate my research into policy and practice. Doing so, I advise governments (e.g., UK Commission on Countering Extremism, UAE Ministry of Culture and Knowledge Development) and collaborate with civil society organisations to conduct impact evaluations.
 
 Currently, I am the module convenor of the undergraduate course 'Introduction to Research'; I also develop a new module for the MSc Countering Organised Crime and Terrorism - 'Online Hate Crime and Extremism'. In addition, I lead a fortnightly seminar series on open science practices and innovative statistical methods. In the past, I have taught tutorials on social psychology (undergraduate, University of Oxford) and research methods seminars (postgraduate, Université Libre de Bruxelles).
 
