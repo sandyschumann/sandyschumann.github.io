@@ -13,7 +13,7 @@ See my [CV]() for more information.
 
 * Assessing the Effect of Terror Attacks on Support for Terrorism: How did support for suicide terrorism change over a period of 11 years? Did exposure to more or more deadly terror attacks predict lower support for terrorism?
 * Bystander Intervention in Ethnic Hate Crime: Where and when do people intervene in ethnic hate crime? Why are people more likely to intervene in more serious incidents? 
-* Does Cognitiv Inflexibility Predict Extremist Attitudes?: A registered direct replication of Zmirod et al., 2019 
+* Does Cognitiv Inflexibility Predict Extremist Attitudes?: A registered direct replication of Zmigrod et al., 2019 
 
 
 ### Recent Pre-prints
