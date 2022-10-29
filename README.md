@@ -1,19 +1,25 @@
-I am a Lecturer (Assistant Professor) and the Postgraduate Tutor at University College London, [Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute). My research examines risk factors of radicalisation, extreme political attitudes, as well as hate crime prevention. I study these phenomena 'online' as well as 'offline'. 
+I am a Lecturer (Assistant Professor) and the Postgraduate Tutor at University College London, [Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute). My research examines risk factors of radicalisation, extreme political attitudes, as well as hate crime and hate speech prevention. I study these phenomena 'online' as well as 'offline'. Additionally, I am passionate about meta-research, improving research methods and analyses procedures.
 
 I am keen to translate my research into policy and practice. Doing so, I advise governments (e.g., UK Commission on Countering Extremism, UAE Ministry of Culture and Knowledge Development) and collaborate with civil society organisations to conduct impact evaluations.
 
-Currently, I am the module convenor of the undergraduate course 'Introduction to Research'; I also develop a new module for the MSc Countering Organised Crime and Terrorism - 'Online Hate Crime and Extremism'. In addition, I lead a fortnightly seminar series on open science practices and innovative statistical methods. In the past, I have taught tutorials on social psychology (undergraduate, University of Oxford) and research methods seminars (postgraduate, Université Libre de Bruxelles).
+Currently, I am the module convenor of the undergraduate course 'Terrorism' and the post-graduate module 'Online Hate Crime and Extremism'. In addition, I lead the fortnightly [JDI Open] (jdiopen.github.io) seminar series on open science practices and innovative statistical methods.
 
-See my [CV](https://github.com/sandyschumann/sandyschumann.github.io/blob/master/CV%20Sandy%20Schumann%20June%202021.pdf) for more information.
+See my [CV]() for more information.
 
 
 
 
 ### Current Research Projects
 
-* Assessing the Effect of Terror Attacks on Support for Terrorism: How did support for suicide terrorism change over a period of 11 years? Did exposure to more or more deadly terror attacks predict lower support for terrorism?
-* Bystander Intervention in Ethnic Hate Crime: Where and when do people intervene in ethnic hate crime? Why are people more likely to intervene in more serious incidents? 
-* Does Cognitiv Inflexibility Predict Extremist Attitudes?: A registered direct replication of Zmigrod et al., 2019 
+* Information seeking and support for violent extremism: I examine the relationship between active selection of and inicidental exposure to radicalising information and support for violent extremism
+* Measurement invariance: Using data from the World Value Survey, I assess the importance of testing for measurement invariance in cross-national research 
+* Public perceptions of measures to remove online hate speech: I explore how citizens perceive the distinction between online hate and free spech, current measures to remove online hate speech, and the freedom-security trade-off.
+
+### My Doctoral Students
+
+
+
+If you are interested in completing your PhD with me, please get in touch at s.schumann [@] ucl.ac.uk.
 
 
 ### Recent Pre-prints
