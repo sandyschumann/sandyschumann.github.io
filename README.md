@@ -15,13 +15,15 @@ See my [CV](https://github.com/sandyschumann/sandyschumann.github.io/blob/master
 * Measurement invariance: Using data from the World Value Survey, I assess the importance of testing for measurement invariance in cross-national research 
 * Public perceptions of measures to remove online hate speech: I explore how citizens perceive the distinction between online hate and free spech, current measures to remove online hate speech, and the freedom-security trade-off
 
-### My Doctoral Students
+### Current Doctoral Students
 
-
+* Yue Jia (2022-present): Counter-speech and online hate speech
+* Tiago Garrido (2022-present): Hostile behaviour in online gaming communities 
+* Sergi Bray (2021-present): The deepfake porn ecosystem
+* Nuraishah Mokhtar (2020-present): Using counter-narratives to counter radicalisation
+* Mary-Ann Cherry (2020-present): The role of comptempt in far-right terrorist propaganda
 
 If you are interested in completing your PhD with me, please get in touch at s.schumann [@] ucl.ac.uk.
-
-
 
 ### Recent Publications
 
