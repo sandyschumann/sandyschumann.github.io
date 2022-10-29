@@ -2,9 +2,9 @@ I am a Lecturer (Assistant Professor) and the Postgraduate Tutor at University C
 
 I am keen to translate my research into policy and practice. Doing so, I advise governments (e.g., UK Commission on Countering Extremism, UAE Ministry of Culture and Knowledge Development) and collaborate with civil society organisations to conduct impact evaluations.
 
-Currently, I am the module convenor of the undergraduate course 'Terrorism' and the post-graduate module 'Online Hate Crime and Extremism'. In addition, I lead the fortnightly [JDI Open] (jdiopen.github.io) seminar series on open science practices and innovative statistical methods.
+Currently, I am the module convenor of the undergraduate course 'Terrorism' and the post-graduate module 'Online Hate Crime and Extremism'. In addition, I lead the fortnightly [JDI Open](jdiopen.github.io) seminar series on open science practices and innovative statistical methods.
 
-See my [CV]() for more information.
+See my [CV](https://github.com/sandyschumann/sandyschumann.github.io/blob/master/CV%20Sandy%20Schumann%20Oct%202022.pdf) for more information.
 
 
 
