@@ -1,4 +1,4 @@
-I am a Lecturer (Assistant Professor) and the Postgraduate Tutor at University College London, [Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute). My current research examines questions that pertain to the interplay between media and hate (crime or speech), extremism, as well as radicalisation. I take an interdiciplinary approach and work in the borderlands of communication science, social psychology, and terrorism studies. I am also passionate about meta-research, improving research methods and analyses procedures in terrorism studies. In the past, I have studied risk factors of radicalisation more broadly, computer-mediated intergroup contact, and online collective action. 
+I am a Lecturer (Assistant Professor) and the Postgraduate Tutor at University College London, [Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute). My current research examines questions that pertain to the interplay between technology and hate (crime or speech), extremism, as well as radicalisation. I take an interdiciplinary approach and work in the borderlands of communication science, social psychology, and terrorism studies. I am also passionate about meta-research, improving research methods and analyses procedures in terrorism studies. In the past, I have studied risk factors of radicalisation more broadly, computer-mediated intergroup contact, and online collective action. 
 
 I am keen to translate my research into policy and practice. Doing so, I advise governments (e.g., UK Commission on Countering Extremism, UAE Ministry of Culture and Knowledge Development) and collaborate with civil society organisations to conduct impact evaluations.
 
@@ -11,8 +11,9 @@ See my [CV](https://github.com/sandyschumann/sandyschumann.github.io/blob/master
 
 ### Current Research Projects
 
-* Information seeking and support for violent extremism: I examine the relationship between active selection of and incidental exposure to radicalising information online and offline and support for violent extremism
-* Measurement invariance: Using data from the World Value Survey, I assess the importance of testing for measurement invariance in cross-national research 
+* Information exposure and support for violent extremism: I examine the relationships between active selection of and incidental exposure to radicalising information online or offline, and support for violent extremism
+* Cryptocurrencies and far-right actors: I map the use of cryptocurrencies by far-right actors in the US
+* Measurement invariance: Using data from the World Values Survey, I assess the importance of testing for measurement invariance in cross-national research 
 * Public perceptions of measures to remove online hate speech: I explore how citizens perceive the distinction between online hate and free spech, current measures to remove online hate speech, and the freedom-security trade-off
 
 ### Current Doctoral Students
