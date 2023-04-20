@@ -39,6 +39,8 @@ Schumann, S., Clemmow, C., Rottweiler, B., & Gill, P. (2023). Distinct Patterns 
 
 ### Recent Publications
 
+Clemmow, C., van der Vegt, I., Rottweiler, B., Schumann, S., & Gill, P. (2023). Crowdsourcing Samples for Research on Violent Extremism: A Research Note. Terrorism and Political Violence. 
+
 Braddock, K., Schumann, S., Corner, E., & Gill, P. (2022). The Moderating Effects of “Dark” Personality Traits and Message Vividness on the Persuasiveness of Terrorist Narrative Propaganda. Frontiers in Psychology, 13.
 
 Breznau, N., Rinke, E. M., Wuttke, A., Nguyen, H. H., Adem, M., Adriaans, J., ... & Van Assche, J. (2022). Observing many researchers using the same data and hypothesis reveals a hidden universe of uncertainty. Proceedings of the National Academy of Sciences, 119(44).
