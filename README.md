@@ -32,7 +32,9 @@ If you are interested in completing your PhD with me, please get in touch at s.s
 
 ### Recent Pre-prints
 
-Schumann, S., & Wolfowicz, M. (2023, January 19). Can We Compare Attitudes Towards Crime Around the World? Assessing Measurement Invariance of the Morally Debatable Behavior Scale Across 44 Countries. https://doi.org/10.31219/osf.io/swvr9
+Jia, Y., & Schumann, S. (2023). Tackling the Prevalence and Spread of Hate Speech Online: The Effect of Counter-speech on Subsequent Bystander Reactions. https://doi.org/10.33767/osf.io/9jmza
+
+Schumann, S., & Wolfowicz, M. (2023). Can We Compare Attitudes Towards Crime Around the World? Assessing Measurement Invariance of the Morally Debatable Behavior Scale Across 44 Countries. https://doi.org/10.31219/osf.io/swvr9
 
 Schumann, S., Clemmow, C., Rottweiler, B., & Gill, P. (2023). Distinct Patterns of Incidental Exposure to and Active Selection of Radicalizing Information Indicate Varying Levels of Support for Violent Extremism. mediarxiv.org/jy25p
 
