@@ -1,6 +1,6 @@
-I am a Lecturer (Assistant Professor) at University College London, [Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute). My current research examines the interplay between (social) media/technology and hate, extremism, as well as radicalisation. I take an interdisciplinary approach and work in the borderlands of communication science, social psychology, and terrorism studies. I am also passionate about meta-research, improving research methods and analyses procedures in extremism and terrorism studies. In the past, I have studied risk factors of radicalisation more broadly, computer-mediated intergroup contact, and online collective action. 
+I am a Lecturer (Assistant Professor) at University College London, [Department of Security and Crime Science](http://www.ucl.ac.uk/jill-dando-institute). My current research examines the interplay between (social) media/information/communication/technology and hate/(violent) extremism/radicalisation in different permutations. I take an interdisciplinary approach and work in the borderlands of communication science, social psychology, and terrorism studies. I am also passionate about meta-research, improving research methods and analyses procedures in extremism and terrorism studies. In the past, I have studied risk factors of radicalisation more broadly, computer-mediated intergroup contact, and online collective action. 
 
-I am keen to translate my research into policy and practice. Doing so, I advise governments (e.g., UK Commission on Countering Extremism, UAE Ministry of Culture and Knowledge Development) and collaborate with civil society organisations to conduct impact evaluations.
+I am keen to translate my research into policy and practice. Doing so, I advise governments (e.g., UK Commission on Countering Extremism, UAE Ministry of Culture and Knowledge Development) and collaborate with civil society organisations, such as [Soliya](https://soliya.net/impact), to conduct impact evaluations.
 
 I serve as the program director of the MSc Countering Extremist Crime and Terrorism. Furthermore, I am the module convenor of the undergraduate course 'Terrorism' and the post-graduate module 'Online Hate Crime and Extremism'. 
 
@@ -13,19 +13,19 @@ See my [CV](https://github.com/sandyschumann/sandyschumann.github.io/blob/master
 
 ### Current Research Projects
 
-* Resilience to hate speech online: I examine who is less likely to be affected by the negative impact of exposure to hate speech
-* Perceptions of hate crime online and offline: I assess how hate crime is perceived in different settings as well as how bystander intervention can be encouraged online
+* Resilience to hate speech online: I examine who is less likely to be affected by the negative/desensitising impact of exposure to hate speech
+* Perceptions of hate speech online and offline: I assess how hate crime is perceived in different settings as well as how bystander intervention can be encouraged online
 * Long-term effects of attitudinal inoculation: I investigate moderators of the persistence of inoculation effects in the context of extremist attitudes
-* Cryptocurrencies and far-right actors: I map the use of cryptocurrencies by far-right actors in the US
+* p-curve ananlysis: I conduct a p-curve analysis of all published work that explores the effect of terrorism on political attitudes and behaviour
 
 
 ### Current Doctoral Students
 
-* Yue Jia (2022-present): Counter-speech and online hate speech
-* Tiago Garrido (2022-present): Hostile behaviour in online gaming communities 
-* Sergi Bray (2021-present): The deepfake porn ecosystem
-* Nuraishah Mokhtar (2020-present): Using counter-narratives to counter radicalisation
-* Mary-Ann Cherry (2020-present): The role of comptempt in far-right terrorist propaganda
+* First supervisor: Nuraishah Mokhtar (2020-present): Using counter-narratives to counter radicalisation
+* Second supervisor: Yue Jia (2022-present): Counter-speech and online hate speech
+* Second supervisor: Tiago Garrido (2022-present): Hostile behaviour in online gaming communities 
+* Second supervisor: Sergi Bray (2021-present): The deepfake porn ecosystem
+* Second supervisor: Mary-Ann Cherry (2020-present): The role of comptempt in far-right terrorist propaganda
 
 If you are interested in completing your PhD with me, please get in touch at s.schumann [@] ucl.ac.uk.
 
@@ -34,14 +34,17 @@ If you are interested in completing your PhD with me, please get in touch at s.s
 
 Jia, Y., & Schumann, S. (2023). Tackling the Prevalence and Spread of Hate Speech Online: The Effect of Counter-speech on Subsequent Bystander Reactions. https://doi.org/10.33767/osf.io/9jmza
 
-Schumann, S., & Wolfowicz, M. (2023). Can We Compare Attitudes Towards Crime Around the World? Assessing Measurement Invariance of the Morally Debatable Behavior Scale Across 44 Countries. https://doi.org/10.31219/osf.io/swvr9
-
 Schumann, S., Clemmow, C., Rottweiler, B., & Gill, P. (2023). Distinct Patterns of Incidental Exposure to and Active Selection of Radicalizing Information Indicate Varying Levels of Support for Violent Extremism. mediarxiv.org/jy25p
 
 
 ### Recent Publications
-
+2023
 Clemmow, C., van der Vegt, I., Rottweiler, B., Schumann, S., & Gill, P. (2023). Crowdsourcing Samples for Research on Violent Extremism: A Research Note. Terrorism and Political Violence. 
+
+Schumann, S., & Wolfowicz, M. (2023). Can We Compare Attitudes Towards Crime Around the World? Assessing Measurement Invariance of the Morally Debatable Behavior Scale Across 44 Countries. Journal of QUantitative Criminology.
+
+2022
+Bouhana, N. & Schumann, S. (2022). Are Conceptual Frameworks Of Radicalisation Leading To Involvement In Terrorism 'Observable'?. Report for the Centre for Research and Evidence on Security Threats.
 
 Braddock, K., Schumann, S., Corner, E., & Gill, P. (2022). The Moderating Effects of “Dark” Personality Traits and Message Vividness on the Persuasiveness of Terrorist Narrative Propaganda. Frontiers in Psychology, 13.
 
@@ -54,10 +57,6 @@ Schumann, S., & Moore, Y. (2022). What can be achieved with online intergroup co
 Schumann, S., & Moore, Y. (2022). The COVID-19 outbreak as a trigger event for sinophobic hate crimes in the United Kingdom. The British Journal of Criminology.
 
 Schumann, S., Rottweiler, B., & Gill, P. (2022). Assessing the relationship between terrorist attacks against ingroup or outgroup members and public support for terrorism. Frontiers in Psychology, 13.
-
-Masciantonio, A., Schumann, S., & Bourguignon, D. (2021). Sexual and gender-based violence: to tweet or not to tweet?. Cyberpsychology: Journal of Psychosocial Research on Cyberspace, 15(3).
-
-Schumann, S., Thomas, F., Ehrke, F., Bertlich, T., & Dupont, J. C. (2021). Maintenance or Change? Examining the Reinforcing Spiral Between Social Media News Use and Populist Attitudes. [Information, Communication & Society](https://doi.org/10.31219/osf.io/b2yt9)
 
 
 ### Contact
