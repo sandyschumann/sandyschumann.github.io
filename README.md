@@ -38,12 +38,12 @@ Schumann, S., Clemmow, C., Rottweiler, B., & Gill, P. (2023). Distinct Patterns 
 
 
 ### Recent Publications
-2023
+##2023
 Clemmow, C., van der Vegt, I., Rottweiler, B., Schumann, S., & Gill, P. (2023). Crowdsourcing Samples for Research on Violent Extremism: A Research Note. Terrorism and Political Violence. 
 
 Schumann, S., & Wolfowicz, M. (2023). Can We Compare Attitudes Towards Crime Around the World? Assessing Measurement Invariance of the Morally Debatable Behavior Scale Across 44 Countries. Journal of QUantitative Criminology.
 
-2022
+##2022
 Bouhana, N. & Schumann, S. (2022). Are Conceptual Frameworks Of Radicalisation Leading To Involvement In Terrorism 'Observable'?. Report for the Centre for Research and Evidence on Security Threats.
 
 Braddock, K., Schumann, S., Corner, E., & Gill, P. (2022). The Moderating Effects of “Dark” Personality Traits and Message Vividness on the Persuasiveness of Terrorist Narrative Propaganda. Frontiers in Psychology, 13.
