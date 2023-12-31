@@ -37,17 +37,19 @@ Jia, Y. & Schumann, S. (2023). Tackling the Prevalence and Spread of Hate Speech
 Schumann, S. & Moore, Y. (2023). Examining Bystanders’ Decisions to Not Intervene in Incidents of Hate Speech Online and Offline. https://osf.io/preprints/psyarxiv/e7q5n/ 
 
 ### Recent Publications
-##2023
+### 2023
 
 Cherry, M. & Schumann, S. (2023). The Role of Emotions in the Radicalisation Process. In: Sociology of Violent Extremism (Eds. S. Lakhani and A. Amarasingam). Oxford, UK: Oxford University Press.
 
-Clemmow, C., van der Vegt, I., Rottweiler, B., Schumann, S., & Gill, P. (2023). Crowdsourcing Samples for Research on Violent Extremism: A Research Note. Terrorism and Political Violence. 
+Clemmow, C., van der Vegt, I., Rottweiler, B., Schumann, S., & Gill, P. (2023). Crowdsourcing Samples for Research on Violent Extremism: A Research Note. Terrorism and Political Violence.
+
+Schumann, S. & Bouhana, N. (in press). The Social Ecology of Radicalization. In: Research Handbook On Radicalization (Ed. K. Braddock). Edward Elgar Publishing.
 
 Schumann, S., Clemmow, C., Rottweiler, B., & Gill, P. (2023). Distinct Patterns of Incidental Exposure to and Active Selection of Radicalizing Information Indicate Varying Levels of Support for Violent Extremism. PLOS One.
 
-Schumann, S., & Wolfowicz, M. (2023). Can We Compare Attitudes Towards Crime Around the World? Assessing Measurement Invariance of the Morally Debatable Behavior Scale Across 44 Countries. Journal of QUantitative Criminology.
+Schumann, S., & Wolfowicz, M. (2023). Can We Compare Attitudes Towards Crime Around the World? Assessing Measurement Invariance of the Morally Debatable Behavior Scale Across 44 Countries. Journal of Quantitative Criminology.
 
-##2022
+### 2022
 
 Bouhana, N. & Schumann, S. (2022). Are Conceptual Frameworks Of Radicalisation Leading To Involvement In Terrorism 'Observable'?. Report for the Centre for Research and Evidence on Security Threats.
 
