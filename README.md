@@ -16,14 +16,14 @@ See my [CV](https://github.com/sandyschumann/sandyschumann.github.io/blob/master
 * Habituation to hate speech online: I examine how design features of social media and counter-speech can be used to attenuate the negative/desensitising impact of exposure to hate speech online
 * Perceptions of hate speech online and offline: I assess how hate crime is perceived in different settings as well as how bystander intervention can be encouraged online
 * Long-term effects of attitudinal inoculation: I investigate moderators of the persistence of inoculation effects in the context of extremist attitudes
-* p-curve ananlysis: I conduct a p-curve analysis of all published work that explores the effect of terrorism on political attitudes and behaviour
+* p-curve analysis: I conduct a p-curve analysis of all published work that explores the effect of terrorism on political attitudes and behaviour
 * The mobilising potential of Telegram: I investigate to what extent conversations in Telegram channels mobilised individuals for violent protests
 
 
 ### Current Doctoral Students
 
 * First supervisor: Nuraishah Mokhtar (2020-present): Using counter-narratives to prevent violent extremism in Malaysia
-* First supervisor: Mary-Ann Cherry (2020-present): Developing a dictionary to assess the role of comptempt in terrorist propaganda
+* First supervisor: Mary-Ann Cherry (2020-present): Developing a dictionary to assess the role of contempt in terrorist propaganda
 * Second supervisor: Maria Vau (2023-present): Using LLMs for influence campaigns
 * Second supervisor: Yue Jia (2022-present): The effect of counter-speech on online hate speech
 * Second supervisor: Tiago Garrido (2022-present): Preventing hostile behaviour in online gaming communities 
