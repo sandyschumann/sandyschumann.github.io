@@ -58,6 +58,8 @@ Clemmow, C., van der Vegt, I., Rottweiler, B., Schumann, S., & Gill, P. (2024). 
 
 Schumann, S. & Bouhana, N. (in press). The Social Ecology of Radicalization. In: Research Handbook On Radicalization (Ed. K. Braddock). Edward Elgar Publishing.
 
+Schumann, S., & Moore, Y. (2023). The COVID-19 outbreak as a trigger event for sinophobic hate crimes in the United Kingdom. The British Journal of Criminology, 63(2), 367-383.
+
 Schumann, S., & Wolfowicz, M. (2023). Can We Compare Attitudes Towards Crime Around the World? Assessing Measurement Invariance of the Morally Debatable Behavior Scale Across 44 Countries. Journal of Quantitative Criminology, 1-29.
 
 ### 2022
@@ -71,8 +73,6 @@ Breznau, N., Rinke, E. M., Wuttke, A., Nguyen, H. H., Adem, M., Adriaans, J., ..
 Ramos, M. R., Schumann, S., & Hewstone, M. (2022). The role of short-term and longer term immigration trends on voting for populist radical right parties in Europe. Social Psychological and Personality Science, 13(4), 816-826.
 
 Schumann, S., & Moore, Y. (2022). What can be achieved with online intergroup contact interventions? Assessing long‐term attitude, knowledge, and behaviour change. Analyses of Social Issues and Public Policy, 22(3), 1072-1091.
-
-Schumann, S., & Moore, Y. (2023). The COVID-19 outbreak as a trigger event for sinophobic hate crimes in the United Kingdom. The British Journal of Criminology, 63(2), 367-383.
 
 Schumann, S., Rottweiler, B., & Gill, P. (2022). Assessing the relationship between terrorist attacks against ingroup or outgroup members and public support for terrorism. Frontiers in Psychology, 13.
 
