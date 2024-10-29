@@ -35,8 +35,6 @@ If you are interested in completing your PhD with me, please get in touch at s.s
 
 ### Recent Pre-prints
 
-Schumann, S. (2024). Does Attitudinal Inoculation Confer Resistance to Violent Extremist Propaganda? Assessing Mechanisms, Long-term Effects, and the Advantage of Visuals. https://osf.io/preprints/psyarxiv/fgn6e
-
 Jia, Y. & Schumann, S. (2023). Tackling the Prevalence and Spread of Hate Speech Online: The Effect of Counter-speech on Subsequent Bystander Reactions. https://doi.org/10.33767/osf.io/9jmza
 
 Schumann, S. & Moore, Y. (2023). Examining Bystanders’ Decisions to Not Intervene in Incidents of Hate Speech Online and Offline. https://osf.io/preprints/psyarxiv/e7q5n/ 
@@ -45,6 +43,8 @@ Schumann, S. & Moore, Y. (2023). Examining Bystanders’ Decisions to Not Interv
 ### 2024
 
 Marques, T. G., Schumann, S., & Mariconti, E. (2024). Positive behaviour interventions in online gaming: a systematic review of strategies applied in other environments. Crime Science, 13(1), 14.
+
+Schumann, S., & Barton, M. (2024). Does Attitudinal Inoculation Confer Resistance to Violent Extremist Propaganda? Assessing Mechanisms, Long-term Effects, and the Advantage of Visuals. Journal of Community & Applied Social Psychology.
 
 Schumann, S., Clemmow, C., Rottweiler, B., & Gill, P. (2024). Distinct patterns of incidental exposure to and active selection of radicalizing information indicate varying levels of support for violent extremism. PLoS one, 19(2), e0293810.
 
