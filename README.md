@@ -25,7 +25,6 @@ See my [CV](https://github.com/sandyschumann/sandyschumann.github.io/blob/master
 * First supervisor: Nuraishah Mokhtar (2020-present): Using counter-narratives to prevent violent extremism in Malaysia
 * First supervisor: Mary-Ann Cherry (2020-present): Developing a dictionary to assess the role of contempt in terrorist propaganda
 * Second supervisor: Maria Vau (2023-present): Using LLMs for influence campaigns
-* Second supervisor: Yue Jia (2022-present): The effect of counter-speech on online hate speech
 * Second supervisor: Tiago Garrido (2022-present): Preventing hostile behaviour in online gaming communities 
 * Second supervisor: Sergi Bray (2021-present): Measuring the deepfake porn ecosystem
 
