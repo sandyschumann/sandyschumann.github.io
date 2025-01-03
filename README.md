@@ -16,7 +16,6 @@ See my [CV](https://github.com/sandyschumann/sandyschumann.github.io/blob/master
 * Habituation to hate speech online: I examine how design features of social media and counter-speech can be used to attenuate the negative/desensitising impact of exposure to hate speech online
 * Perceptions of hate speech online and offline: I assess how hate crime is perceived in different settings as well as how bystander intervention can be encouraged online
 * Long-term effects of attitudinal inoculation: I investigate moderators of the persistence of inoculation effects in the context of extremist attitudes
-* p-curve analysis: I conduct a p-curve analysis of all published work that explores the effect of terrorism on political attitudes and behaviour
 * The mobilising potential of Telegram: I investigate to what extent conversations in Telegram channels mobilised individuals for violent protests
 
 
@@ -34,12 +33,12 @@ If you are interested in completing your PhD with me, please get in touch at s.s
 
 ### Recent Pre-prints
 
-Jia, Y. & Schumann, S. (2023). Tackling the Prevalence and Spread of Hate Speech Online: The Effect of Counter-speech on Subsequent Bystander Reactions. https://doi.org/10.33767/osf.io/9jmza
-
 Schumann, S. & Moore, Y. (2023). Examining Bystanders’ Decisions to Not Intervene in Incidents of Hate Speech Online and Offline. https://osf.io/preprints/psyarxiv/e7q5n/ 
 
 ### Recent Publications
 ### 2024
+
+Jia, Y. & Schumann, S. (2024, accepted). Tackling the Prevalence and Spread of Hate Speech Online: The Effect of Counter-speech on Subsequent Bystander Behavior Intentions. Cyberpsychology: Journal of Psychosocial Research on Cyberspace. Pre-print here: https://doi.org/10.33767/osf.io/9jmza
 
 Marques, T. G., Schumann, S., & Mariconti, E. (2024). Positive behaviour interventions in online gaming: a systematic review of strategies applied in other environments. Crime Science, 13(1), 14.
 
