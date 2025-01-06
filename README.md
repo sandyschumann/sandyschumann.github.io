@@ -6,7 +6,7 @@ I serve as the program director of the MSc Countering Extremist Crime and Terror
 
 In 2018, I founded [JDI Open](jdiopen.github.io), a seminar series on open science practices and innovative statistical methods. Since 2023, I am a co-lead of UCL's chapter of the UK Reproducibility Network.
 
-See my [CV](https://github.com/sandyschumann/sandyschumann.github.io/blob/master/CV%20Sandy%20Schumann%20Jan%202024.pdf) for more information.
+See my [CV](https://sandyschumann.github.io/CV%20Sandy%20Schumann%20Aug%202024%20WI.pdf) for more information.
 
 
 
