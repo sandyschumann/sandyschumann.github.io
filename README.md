@@ -36,13 +36,21 @@ If you are interested in completing your PhD with me, please get in touch at s.s
 Schumann, S. & Moore, Y. (2023). Examining Bystanders’ Decisions to Not Intervene in Incidents of Hate Speech Online and Offline. https://osf.io/preprints/psyarxiv/e7q5n/ 
 
 ### Recent Publications
-### 2024
+### 2025
 
-Jia, Y. & Schumann, S. (2024, accepted). Tackling the Prevalence and Spread of Hate Speech Online: The Effect of Counter-speech on Subsequent Bystander Behavior Intentions. Cyberpsychology: Journal of Psychosocial Research on Cyberspace. Pre-print here: https://doi.org/10.33767/osf.io/9jmza
+Bowland, V., & Schumann, S. (2025). Perceptions of Individuals Radicalised Online: Examining the Victim-Perpetrator Nexus. Legal and Criminological Psychology. (in press)
+
+Breznau, N., Rinke, E. M., Wuttke, A., Adem, M., Adriaans, J., Akdeniz, E., ... & Sleegers, W. (2025). The reliability of replications: a study in computational reproductions. Royal Society Open Science, 12(3), 241038.
+
+Jia, Y., & Schumann, S. (2025). Tackling hate speech online: The effect of counter-speech on subsequent bystander behavioral intentions. Cyberpsychology: Journal of Psychosocial Research on Cyberspace, 19(1).
+
+Schumann, S., Kenyon, J., & Binder, J. (2025). Identifying distinct types of internet use that predict the likelihood of planning or committing a terrorist attack: Findings from an analysis of individuals convicted on terrorism (-related) charges in England and Wales. Computers in Human Behavior, 168, 108646.
+
+### 2024
 
 Marques, T. G., Schumann, S., & Mariconti, E. (2024). Positive behaviour interventions in online gaming: a systematic review of strategies applied in other environments. Crime Science, 13(1), 14.
 
-Schumann, S., & Barton, M. (2024). Does Attitudinal Inoculation Confer Resistance to Violent Extremist Propaganda? Assessing Mechanisms, Long-term Effects, and the Advantage of Visuals. Journal of Community & Applied Social Psychology.
+Schumann, S., & Barton, M. (2024). Does Attitudinal Inoculation Confer Resistance to Violent Extremist Propaganda? Assessing Mechanisms, Long‐Term Effects, and the Advantage of Visuals. Journal of Community & Applied Social Psychology, 34(6), e2898.
 
 Schumann, S., Clemmow, C., Rottweiler, B., & Gill, P. (2024). Distinct patterns of incidental exposure to and active selection of radicalizing information indicate varying levels of support for violent extremism. PLoS one, 19(2), e0293810.
 
