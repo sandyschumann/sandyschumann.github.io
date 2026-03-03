@@ -65,4 +65,4 @@ Schumann, S., & Zohny, H. (2024). Does attitude importance moderate the effects 
 
 ### Contact
 * Email: s.schumann [@] ucl.ac.uk
-* Twitter: @Sandy_Research
+
